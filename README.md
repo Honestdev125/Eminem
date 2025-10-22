@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎤 Eminem Fan Website</h1>
   <p>Interactive fan site showcasing Eminem’s biography, albums, news, and ticket booking 🔥</p>
-  <a href="https://hamiparsa.github.io/Eminem/">
+  <a href="https://honestdev125.github.io/Eminem/">
     <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -84,7 +84,7 @@ The site is fully responsive, interactive, and uses modern front-end technologie
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Passionate about music, motion, and interactive design  
 
 ---
